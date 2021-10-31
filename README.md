@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Sumith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumithpuri)](https://github.com/sumithpuri/github-readme-stats)
+
 
 <!--
 **sumithpuri/sumithpuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
