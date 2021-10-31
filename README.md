@@ -1,4 +1,6 @@
 [![Sumith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumithpuri)](https://github.com/sumithpuri/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumithpuri)](https://github.com/sumithpuri/github-readme-stats)
+
 
 
 <!--
